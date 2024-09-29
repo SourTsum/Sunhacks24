@@ -1,7 +1,7 @@
 ## Inspiration
 We were inspired by the video game series known as Five Nights At Freddy's. Our gameplay is not similar to the core gameplay of the series but is inspired by the mini-games within the game.
 ## How we built it
-We built the game using pure Java with much blood, sweat, and tears. Lots of tears. Don't use Java for game development. We also used an open-source JSON manager called [JSON Simple](https://github.com/fangyidong/json-simple).
+We built the game using pure Java with much blood, sweat, and tears. Lots of tears. Don't use Java for game development. We also used an open-source JSON manager called [JSON Simple](https://code.google.com/archive/p/json-simple/).
 ## Challenges we ran into
 A lot of issues relating to Java Swing with our panels and frames not interacting as intended. Implementing mini-games with Java Swing was also very difficult.
 ## Accomplishments that we're proud of
